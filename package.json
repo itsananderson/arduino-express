@@ -1,0 +1,15 @@
+{
+  "name": "arduino-express",
+  "version": "0.0.1",
+  "description": "Expose control to an Arduino as an Express site",
+  "main": "servo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Will Andrson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.6.1",
+    "johnny-five": "^0.8.1"
+  }
+}
